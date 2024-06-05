@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:matheus-alpe/jstack-api-mycontacts.git
+[submodule "front"]
+	path = front
+	url = git@github.com:matheus-alpe/jstack-front-mycontacts.git
